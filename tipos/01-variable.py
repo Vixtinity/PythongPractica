@@ -1,0 +1,6 @@
+NOMBRE_CURSO = "Ultimate Python"
+NOMBRE1 = "Hola"
+print(NOMBRE_CURSO + NOMBRE1)
+ALUMNOS = 5000
+PUNTAJE = 9.9
+PUBLICADO = True
